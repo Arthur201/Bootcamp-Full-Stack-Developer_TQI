@@ -14,7 +14,7 @@ Existem diversos paradigmas de programação, sendo eles:
 
 -- Funcional: Instruções baseadas em funções;
 
--- Lógico:  
+-- Lógico:  Também conhecido como restritivo, é muito utilizado em aplicações de inteligência artifical (IA). Esse paradigma chega no resultado esperado por meio de avaliações lógico-matemáticas.
 
 -- Estruturado: Estrutura de blocos aninhados; Instruções executadas em sequência.
         
