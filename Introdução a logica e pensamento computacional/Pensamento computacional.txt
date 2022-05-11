@@ -1,0 +1,14 @@
+
+-Decomposição: Consiste em decompor um problema em partes menores para que o desenvolvimento da solução se torne mais fácil. A decomposição é composta por algumas etapas:
+
+        -- Análise: Etapa onde analisamos o problema geral e o quebramos em partes menores e mais facilmente gerenciáveis.
+
+        -- Síntese:  Etapa onde juntamos as pequenas partes quebradas na etapa anterior e verificamos se encaixam bem, se foram "bem quebradas".
+
+
+-Padrões: O reconhecimento de padrões é muito importante e útil para que possamos generalizar bem o problema e criar soluções aplicáveis aos diferentes cenarios, sendo eles similares.
+
+
+
+-Abstração: Para que possamos reconhecer padrões, é necessário que façamos uma generalização do problema apresentado, ou seja, é necessário que façamos uma boa ABSTRAÇÃO das caracteristicas mais gerais do problema. A Abstração nada mais é que retirar as caracteristicas mais gerais possíveis de um objeto real e transpô-lo para o mundo das ideias/virtual, com o objetivo tanto de definir uma classe (no contexto de desenvolvimento de games) quanto para encontrar soluções para problemas similares.
+

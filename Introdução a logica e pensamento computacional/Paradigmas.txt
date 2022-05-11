@@ -1,0 +1,23 @@
+Existem diversos paradigmas de programação, sendo eles:
+
+-- Orientado a Objetos: É fundamentado na criação de Classes e, logo, na abstração para criação dos atributos e dos métodos alienados a determinada Classe; 
+        
+        -- Análogo ao mundo real, pois torna possível a transposição de objetos do mundo real para o mundo abstrato.
+        
+        -- A POO é composta pelos pilares:
+                -- Herança;
+                -- Encapsulamento;
+                -- Polimorfismo;
+                -- Abstração;
+
+-- Procedural: Relacionado com chamadas sucessivas e procedimentos separados;
+
+-- Funcional: Instruções baseadas em funções;
+
+-- Lógico:  
+
+-- Estruturado: Estrutura de blocos aninhados; Instruções executadas em sequência.
+        
+        -Utiliza-se para resolução de problemas simples e diretos e para iniciantes na programação.
+
+-- Computação Distribuída: Funções executadas de forma independente;
