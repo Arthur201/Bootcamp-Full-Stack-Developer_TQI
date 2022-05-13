@@ -1,0 +1,1 @@
+:hover -- é um seletor no CSS que funciona quando seu mouse está sobre ele. Pode ser usado para fazer algumas "Transitions" com o mouse sendo o "gatilho".
