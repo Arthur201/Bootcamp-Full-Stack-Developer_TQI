@@ -1,0 +1,50 @@
+#title
+{
+    color: rgb(81, 7, 83);
+    text-transform: uppercase;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+.subtitle
+{
+color:rgb(228, 153, 15);
+font-weight: bold;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+button
+{
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+    background-color: rgb(62, 112, 218);
+    vertical-align: middle;
+    opacity: 0.5;
+
+
+}
+
+body
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+
+.numero
+{
+ font-size: 40px;
+ color: black;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ vertical-align: middle;
+ 
+}
+
+button:hover
+{
+    opacity: 1;
+}
